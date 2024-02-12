@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import time
 
-players = pd.read_csv('player_ids.csv')
+players = pd.read_csv('data/player_ids.csv')
 batter_matches = pd.DataFrame(
     columns=['player_id','player_name','position','country','opposition','runs','dismissal','ground','date','match_link']
 )
@@ -24,7 +24,7 @@ def get_batter_matches(Row):
         if table.find('caption', string='Match by match list'):
             mainTable = table
             break
-    if  mainTable.find('b',string='No records available to match this query'):
+    if not mainTable or mainTable.find('b',string='No records available to match this query'):
         print(f'batting table not found for {Row["player_name"]}')
         return
     for row in mainTable.find('tbody').find_all('tr'):
@@ -58,7 +58,7 @@ def get_bowler_matches(Row):
         if table.find('caption', string='Match by match list'):
             mainTable = table
             break
-    if mainTable.find('b',string='No records available to match this query'):
+    if not mainTable or mainTable.find('b',string='No records available to match this query'):
         print(f'bwoling table not found for {Row["player_name"]}')
         return
     for row in mainTable.find('tbody').find_all('tr'):
@@ -87,5 +87,5 @@ if __name__ == '__main__':
             get_batter_matches(row)
         if row['type'] in ['Bowler', 'All Rounder', 'All rounder']:
             get_bowler_matches(row)
-    batter_matches.to_csv('international_batter_info.csv')
-    bowler_matches.to_csv('international_bowler_info.csv')
+    batter_matches.to_csv('data/international_batter_info.csv')
+    bowler_matches.to_csv('data/international_bowler_info.csv')

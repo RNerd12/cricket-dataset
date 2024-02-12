@@ -2,3 +2,4 @@ tesst.ipynb
 __pycache__
 international_batter_info.csv
 international_bowler_info.csv
+*.txt
