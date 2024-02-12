@@ -1,246 +1,246 @@
-,playerID,country,type
-0,931581,india,Batter
-1,219889,australia,Batter
-2,1070168,india,Batter
-3,1292498,india,Batter
-4,581379,westindies,Batter
-5,1403198,india,Batter
-6,1277545,india,Batter
-7,911707,england,Batter
-8,642531,india,Batter
-9,1207295,india,Batter
-10,595978,southafrica,Batter
-11,554691,india,All Rounder
-12,1060363,india,All Rounder
-13,272450,australia,All Rounder
-14,820393,india,All Rounder
-15,777515,india,Bowler
-16,1292520,india,Bowler
-17,481979,southafrica,Bowler
-18,559235,india,Bowler
-19,542023,southafrica,Bowler
-20,942645,india,Bowler
-21,236779,india,Bowler
-22,774223,australia,Bowler
-23,279677,india,Bowler
-24,1161489,india,Bowler
-25,28081,india,Batter
-26,379140,newzealand,Batter
-27,1060380,india,Batter
-28,277916,india,Batter
-29,1292497,india,Batter
-30,1175489,india,Batter
-31,1408675,india,Batter
-32,234675,india,All rounder
-33,502714,newzealand,All rounder
-34,8917,england,All rounder
-35,714451,india,All rounder
-36,1292506,india,All rounder
-37,1059570,india,All rounder
-38,959767,newzealand,All rounder
-39,475281,india,All rounder
-40,381743,newzealand,All rounder
-41,1175429,india,Bowler
-42,447261,india,All rounder
-43,1138316,srilanka,Bowler
-44,1125688,india,Bowler
-45,330902,bangladesh,Bowler
-46,1252337,india,Bowler
-47,1159722,india,Bowler
-48,822553,india,Bowler
-49,1194795,srilanka,Bowler
-50,379484,australia,Batter
-51,1070173,india,Batter
-52,230193,australia,Batter
-53,279810,india,Batter
-54,1350762,india,Batter
-55,277906,newzealand,Batter
-56,778963,india,All rounder
-57,1392886,india,All rounder
-58,1111917,india,All rounder
-59,33930,india,All rounder
-60,819429,afghanistan,All rounder
-61,719719,india,All rounder
-62,447587,india,All rounder
-63,423838,india,All rounder
-64,481896,india,Bowler
-65,1122918,india,Bowler
-66,1175457,india,Bowler
-67,1123718,australia,Bowler
-68,819401,afghanistan,Bowler
-69,1048739,india,Bowler
-70,376116,india,Bowler
-71,25923,afghanistan,Bowler
-72,928067,ireland,Bowler
-73,422708,india,Bowler
-74,1175426,india,Bowler
-75,604527,india,All rounder
-76,723105,india,Batter
-77,974087,afghanistan,Batter
-78,642519,india,Batter
-79,914541,westindies,Batter
-80,529436,india,Batter
-81,32417,india,Batter
-82,298438,england,Batter
-83,1292495,india,Batter
-84,1079839,india,All rounder
-85,1079470,india,All rounder
-86,276298,westindies,All rounder
-87,851403,india,Batter
-88,1350792,india,Bowler
-89,974109,afghanistan,Bowler
-90,1039481,england,Bowler
-91,1340422,india,Bowler
-92,1312645,india,Bowler
-93,230558,westindies,Bowler
-94,1209292,india,Bowler
-95,1108375,india,Bowler
-96,311592,australia,Bowler
-97,1131754,india,Bowler
-98,422108,india,Batter
-99,1119026,india,Batter
-100,379143,southafrica,Batter
-101,604302,westindies,Batter
-102,500268,australia,Batter
-103,1151270,india,All rounder
-104,497121,india,All rounder
-105,424377,india,All rounder
-106,471342,india,All rounder
-107,348056,westindies,All rounder
-108,325012,australia,All rounder
-109,973953,afghanistan,All rounder
-110,956871,india,All rounder
-111,1206052,india,All rounder
-112,1403153,india,All rounder
-113,308251,england,All rounder
-114,1079848,india,Bowler
-115,351588,england,Bowler
-116,1339274,india,Bowler
-117,1132005,india,Bowler
-118,1175441,india,Bowler
-119,1070196,india,Bowler
-120,427458,india,Bowler
-121,793447,afghanistan,Bowler
-122,1151286,india,Bowler
-123,924355,india,Batter
-124,1070665,southafrica,Batter
-125,446507,india,Batter
-126,720471,india,Batter
-127,1170265,india,Batter
-128,892749,australia,Batter
-129,732293,india,Batter
-130,25913,afghanistan,All rounder
-131,1148776,india,All rounder
-132,677077,westindies,All rounder
-133,1131607,india,All rounder
-134,1151273,india,All rounder
-135,625371,india,All rounder
-136,596010,southafrica,All rounder
-137,1175428,india,All rounder
-138,1287032,india,All rounder
-139,1167965,india,All rounder
-140,625383,india,Bowler
-141,1159843,india,Bowler
-142,32966,india,Bowler
-143,1206039,india,Bowler
-144,272477,australia,Bowler
-145,793007,srilanka,Bowler
-146,344580,india,Bowler
-147,955235,srilanka,Bowler
-148,28235,india,Batter
-149,721867,india,Batter
-150,297433,england,Batter
-151,1161024,india,Batter
-152,403902,england,Batter
-153,340854,india,Batter
-154,318845,southafrica,Batter
-155,377534,india,Batter
-156,247235,england,All rounder
-157,1354639,england,All rounder
-158,1131978,india,All rounder
-159,1080008,india,All rounder
-160,1125958,india,All rounder
-161,290727,india,All rounder
-162,662973,england,All rounder
-163,299572,zimbabwe,All rounder
-164,1252390,india,All rounder
-165,1412827,india,Bowler
-166,1168641,india,Bowler
-167,1057391,india,Bowler
-168,550215,southafrica,Bowler
-169,826915,australia,Bowler
-170,1064812,india,Bowler
-171,1155262,india,Bowler
-172,390481,india,Bowler
-173,425943,india,Batter
-174,308967,england,Batter
-175,670025,westindies,Batter
-176,1151278,india,Batter
-177,1175488,india,Batter
-178,1079434,india,Batter
-179,1339031,india,Batter
-180,698315,southafrica,Batter
-181,820351,westindies,Batter
-182,1252585,india,Batter
-183,470633,england,Batter
-184,26421,india,All rounder
-185,1201536,india,All rounder
-186,694211,india,Bowler
-187,1163695,india,Bowler
-188,700167,india,Bowler
-189,917159,india,Bowler
-190,34838,india,Bowler
-191,277912,newzealand,Bowler
-192,430246,india,Bowler
-193,379504,australia,Bowler
-194,971349,southafrica,Bowler
-195,44828,southafrica,Batter
-196,823703,india,Batter
-197,253802,india,Batter
-198,1123073,india,Batter
-199,30045,india,Batter
-200,1083851,india,Batter
-201,897549,england,Batter
-202,1287369,india,Batter
-203,325026,australia,All rounder
-204,853265,india,All rounder
-205,30288,india,All rounder
-206,1076713,australia,All rounder
-207,232292,india,All rounder
-208,942367,india,All rounder
-209,1057399,india,All rounder
-210,1176959,india,Bowler
-211,670031,westindies,Bowler
-212,493773,newzealand,Bowler
-213,940973,india,Bowler
-214,1159720,india,Bowler
-215,550235,england,Bowler
-216,461632,england,Bowler
-217,714593,india,Bowler
-218,777815,india,Bowler
-219,1339027,india,Bowler
-220,1282257,hkg,Batter
-221,600498,southafrica,Batter
-222,446763,india,Batter
-223,823509,newzealand,Batter
-224,398438,india,Batter
-225,436757,southafrica,Batter
-226,851261,india,Batter
-227,732269,india,Batter
-228,1175496,india,Batter
-229,530011,australia,Batter
-230,1070183,india,All rounder
-231,696401,southafrica,All rounder
-232,719715,india,All rounder
-233,1132219,india,All rounder
-234,784379,srilanka,All rounder
-235,919531,hkg,Bowler
-236,1163666,india,Bowler
-237,1159711,india,Bowler
-238,326016,india,Bowler
-239,974175,afghanistan,Bowler
-240,390484,india,Bowler
-241,802575,india,Bowler
-242,1246528,india,Bowler
-243,1081442,india,Bowler
-244,489889,australia,Bowler
+,player_id,player_name,country,type
+0,931581,Rishabh Pant,india,Batter
+1,219889,David Warner,australia,Batter
+2,1070168,Prithvi Shaw,india,Batter
+3,1292498,Yash Dhull,india,Batter
+4,581379,Shai Hope,westindies,Batter
+5,1403198,Swastik Chhikara,india,Batter
+6,1277545,Abishek Porel,india,Batter
+7,911707,Harry Brook,england,Batter
+8,642531,Ricky Bhui,india,Batter
+9,1207295,Kumar Kushagra,india,Batter
+10,595978,Tristan Stubbs,southafrica,Batter
+11,554691,Axar Patel,india,All Rounder
+12,1060363,Lalit yadav,india,All Rounder
+13,272450,Mitchell Marsh,australia,All Rounder
+14,820393,Sumit Kumar,india,All Rounder
+15,777515,Pravin Dubey,india,Bowler
+16,1292520,Vickey Ostwal,india,Bowler
+17,481979,Anrich Nortje,southafrica,Bowler
+18,559235,Kuldeep Yadav,india,Bowler
+19,542023,Lungi Ngidi,southafrica,Bowler
+20,942645,Khaleel Ahmed,india,Bowler
+21,236779,Ishanth Sharma,india,Bowler
+22,774223,Jhye Richardson,australia,Bowler
+23,279677,Mukesh Kumar,india,Bowler
+24,1161489,Rasikh Dar,india,Bowler
+25,28081,MS DHONI,india,Batter
+26,379140,DEVON CONWAY,newzealand,Batter
+27,1060380,RUTURAJ GAIKWAD,india,Batter
+28,277916,AJINKYA RAHANE,india,Batter
+29,1292497,SHAIK RASHEED,india,Batter
+30,1175489,SAMEER RIZVI,india,Batter
+31,1408675,AVINASHI RAO ARAVELLY,india,Batter
+32,234675,Ravindara Jadeja,india,All rounder
+33,502714,Mitchell Santer,newzealand,All rounder
+34,8917,Moeen Ali,england,All rounder
+35,714451,Shivam Dube,india,All rounder
+36,1292506,Nishanth Sindhu,india,All rounder
+37,1059570,Ajay Mandal,india,All rounder
+38,959767,Rachin Ravindra,newzealand,All rounder
+39,475281,Shardul Thakur,india,All rounder
+40,381743,Dary Mitchell,newzealand,All rounder
+41,1175429,Rajvardhan Hangargekar,india,Bowler
+42,447261,Deepak Chahar,india,All rounder
+43,1138316,Maheesh Theekshana,srilanka,Bowler
+44,1125688,Mukesh Choudhary,india,Bowler
+45,330902,Mustafizur Rahman,bangladesh,Bowler
+46,1252337,Prashant Solanki,india,Bowler
+47,1159722,Simarjeet Singh,india,Bowler
+48,822553,Tushar Deshpande,india,Bowler
+49,1194795,Matheesha Pathirana,srilanka,Bowler
+50,379484,David Miller,australia,Batter
+51,1070173,Shubman Gill,india,Batter
+52,230193,Matthew wade,australia,Batter
+53,279810,Wriddhiman Saha,india,Batter
+54,1350762,Robin minz,india,Batter
+55,277906,Kane Williamson,newzealand,Batter
+56,778963,Abhinav Manohar,india,All rounder
+57,1392886,B.Sai Sudharsan,india,All rounder
+58,1111917,Darshan Nalkande,india,All rounder
+59,33930,Vijay Shankar,india,All rounder
+60,819429,Azmatullah Omarzai,afghanistan,All rounder
+61,719719,Sharukh Khan,india,All rounder
+62,447587,Jayant Yadav,india,All rounder
+63,423838,Rahul Tewatia,india,All rounder
+64,481896,Mohammad shami,india,Bowler
+65,1122918,Kartik Tyagi,india,Bowler
+66,1175457,Sushant Mishra,india,Bowler
+67,1123718,Spencer Johnson,australia,Bowler
+68,819401,Noor Ahmad,afghanistan,Bowler
+69,1048739,Sai Kishore,india,Bowler
+70,376116,Umesh Yadav,india,Bowler
+71,25923,Rashid khan,afghanistan,Bowler
+72,928067,Joshua Little,ireland,Bowler
+73,422708,Mohit Sharma,india,Bowler
+74,1175426,Manav Suthra,india,Bowler
+75,604527,Nitish Rana,india,All rounder
+76,723105,Rinku Singh ,india,Batter
+77,974087,Rahmanullah Gurbaz,afghanistan,Batter
+78,642519,Shreyas Iyer,india,Batter
+79,914541,Sherfane Rutherford,westindies,Batter
+80,529436,K S Bharat ,india,Batter
+81,32417,Manish Pandey ,india,Batter
+82,298438,Jason Roy,england,Batter
+83,1292495,AngKrish Raghuvanshi,india,Batter
+84,1079839,Ankul Roy,india,All rounder
+85,1079470,Ramandeep Singh,india,All rounder
+86,276298,Andre Russell,westindies,All rounder
+87,851403,Venkatesh Iyer,india,Batter
+88,1350792,Suyash sharma,india,Bowler
+89,974109,Mujeeb Ur Rahman,afghanistan,Bowler
+90,1039481,Gus Atkinson,england,Bowler
+91,1340422,Sakib Hussian,india,Bowler
+92,1312645,Harshith Rana,india,Bowler
+93,230558,Sunil Narine,westindies,Bowler
+94,1209292,Vaibhav Arora ,india,Bowler
+95,1108375,Varun Chakaravarthy,india,Bowler
+96,311592,Mitchell starc,australia,Bowler
+97,1131754,Chetan Sakariya,india,Bowler
+98,422108,KL Rahul,india,Batter
+99,1119026,DevDutt Padikal,india,Batter
+100,379143,Quinton De Kock,southafrica,Batter
+101,604302,Nicholas Pooran,westindies,Batter
+102,500268,Ashton Turner,australia,Batter
+103,1151270,Ayush Badoni,india,All rounder
+104,497121,Deepak Hooda,india,All rounder
+105,424377,Krishnappa Gowtham,india,All rounder
+106,471342,Krunal Pandya,india,All rounder
+107,348056,Kyle Mayers,westindies,All rounder
+108,325012,Marcus Stonis,australia,All rounder
+109,973953,Arshad Khan,afghanistan,All rounder
+110,956871,Prerak Mankad,india,All rounder
+111,1206052,Yudhvir Singh,india,All rounder
+112,1403153,Arshin Kulkarni,india,All rounder
+113,308251,David willey,england,All rounder
+114,1079848,Shivam Mavi,india,Bowler
+115,351588,Mark wood,england,Bowler
+116,1339274,Mayank Yadav,india,Bowler
+117,1132005,Mohshin Khan,india,Bowler
+118,1175441,Ravi Bishnoi,india,Bowler
+119,1070196,Yash Thakur,india,Bowler
+120,427458,Amit Mishra,india,Bowler
+121,793447,Naveen Ul Haq,afghanistan,Bowler
+122,1151286,M Sidhdharth,india,Bowler
+123,924355,Rohit Sharma,india,Batter
+124,1070665,Dewald Brevis,southafrica,Batter
+125,446507,SuryaKumar yadav,india,Batter
+126,720471,Ishan Kishan,india,Batter
+127,1170265,N.Tilak Varma,india,Batter
+128,892749,Tim david,australia,Batter
+129,732293,Vishnu Vinod,india,Batter
+130,25913,Mohammad Nabi,afghanistan,All rounder
+131,1148776,Arjun Tendulkar,india,All rounder
+132,677077,Romario Shephered,westindies,All rounder
+133,1131607,Shams Mulani,india,All rounder
+134,1151273,Nehal Wadhera,india,All rounder
+135,625371,Hardik Pandya,india,All rounder
+136,596010,Gerald Coetzee,southafrica,All rounder
+137,1175428,Anshul Kamboj,india,All rounder
+138,1287032,Naman Dhir,india,All rounder
+139,1167965,Shivalik Sharma,india,All rounder
+140,625383,Jasprit Bumrah,india,Bowler
+141,1159843,Kumar Kartikeya Singh,india,Bowler
+142,32966,Piyush Chawla ,india,Bowler
+143,1206039,Akash Madhwal,india,Bowler
+144,272477,Jason Behrendorff,australia,Bowler
+145,793007,Dilshan Madushanka,srilanka,Bowler
+146,344580,Shreyas Gopal ,india,Bowler
+147,955235,Nuwan Thushara,srilanka,Bowler
+148,28235,Shikar Dhawan,india,Batter
+149,721867,Jitesh Sharma,india,Batter
+150,297433,Jonny Bairstow,england,Batter
+151,1161024,Prabhsimran Singh,india,Batter
+152,403902,Liam Livingstone,england,Batter
+153,340854,Harpreet Bhatia,india,Batter
+154,318845,Rilee Rossouw,southafrica,Batter
+155,377534,Shashank Singh,india,Batter
+156,247235,Chris Woakes,england,All rounder
+157,1354639,vishwanath Pratap Singh,england,All rounder
+158,1131978,Ashutosh Sharma,india,All rounder
+159,1080008,Tanay Thyagarajan,india,All rounder
+160,1125958,Atharva Taide,india,All rounder
+161,290727,Rishi Dhawan,india,All rounder
+162,662973,Sam Curran,england,All rounder
+163,299572,Sikandar Raja,zimbabwe,All rounder
+164,1252390,Shivam singh,india,All rounder
+165,1412827,Prince Choudhary,india,Bowler
+166,1168641,Harpreet Bhar,india,Bowler
+167,1057391,Arshdeep Singh,india,Bowler
+168,550215,Kasigo Rabada,southafrica,Bowler
+169,826915,Nathan Ellis,australia,Bowler
+170,1064812,Rahul Chahar,india,Bowler
+171,1155262,Vidwath Kaverappa,india,Bowler
+172,390481,Harshal Patel,india,Bowler
+173,425943,Sanju Samson,india,Batter
+174,308967,JosButtler,england,Batter
+175,670025,Shimron Hetmyer,westindies,Batter
+176,1151278,Yashasvi Jaiswal,india,Batter
+177,1175488,Dhruv Jurel,india,Batter
+178,1079434,Riyan parag,india,Batter
+179,1339031,Kunal Rathore,india,Batter
+180,698315,Donovan Ferreira,southafrica,Batter
+181,820351,Rovan Powell,westindies,Batter
+182,1252585,Shubham Dubey,india,Batter
+183,470633,Tom Kohler-CadMore,england,Batter
+184,26421,Ravichandran Ashwin,india,All rounder
+185,1201536,Abid Mushtaq,india,All rounder
+186,694211,Avesh Khan ,india,Bowler
+187,1163695,Kuldeep Sen,india,Bowler
+188,700167,Navdeep Sain,india,Bowler
+189,917159,Prasidh Krishna,india,Bowler
+190,34838,Sandeep Sharma,india,Bowler
+191,277912,Trent Boult,newzealand,Bowler
+192,430246,Yuzvendra Chahal,india,Bowler
+193,379504,Adam Zampa,australia,Bowler
+194,971349,Nandre Burger,southafrica,Bowler
+195,44828,Faf Du plessis,southafrica,Batter
+196,823703,Rajat Patidar,india,Batter
+197,253802,Virat Kohli,india,Batter
+198,1123073,Anuj Rawat,india,Batter
+199,30045,Dinesh Karthik,india,Batter
+200,1083851,Suyash Prabhudessai,india,Batter
+201,897549,Will jacks,england,Batter
+202,1287369,SauravChuahan,india,Batter
+203,325026,GlenMaxwell,australia,All rounder
+204,853265,Mahipal Lomror,india,All rounder
+205,30288,Karn sharma,india,All rounder
+206,1076713,Cameron Green,australia,All rounder
+207,232292,Swapnil Singh,india,All rounder
+208,942367,Mayank Dagar,india,All rounder
+209,1057399,Manoj Bhandage,india,All rounder
+210,1176959,Akash Deep,india,Bowler
+211,670031,Alzarri Joseph,westindies,Bowler
+212,493773,Lockie Ferguson,newzealand,Bowler
+213,940973,Mohammed Siraj,india,Bowler
+214,1159720,Yash dayal,india,Bowler
+215,550235,Tom curran,england,Bowler
+216,461632,Reece Topley,england,Bowler
+217,714593,Himanshu Sharma,india,Bowler
+218,777815,Vyshak Vijay Kumar,india,Bowler
+219,1339027,Rajan Kumar,india,Bowler
+220,1282257,Abdul Samad,hkg,Batter
+221,600498,Aiden Markram,southafrica,Batter
+222,446763,Rahul Tripathi,india,Batter
+223,823509,Glenn Phillips,newzealand,Batter
+224,398438,Mayank Agarwal,india,Batter
+225,436757,Heinrich Klaasen,southafrica,Batter
+226,851261,Anmolpreet Singh ,india,Batter
+227,732269,Upendra singh yadav,india,Batter
+228,1175496,Nitish Kumar Reddy,india,Batter
+229,530011,Travis Head,australia,Batter
+230,1070183,Abhishek Sharma,india,All rounder
+231,696401,Macro Jansen,southafrica,All rounder
+232,719715,Washington sundar,india,All rounder
+233,1132219,Sanvir singh,india,All rounder
+234,784379,Wanindu Hasaranga,srilanka,All rounder
+235,919531,Jhathavedh Subramanyan,hkg,Bowler
+236,1163666,Akash Singh,india,Bowler
+237,1159711,Shahbaz Ahamad,india,Bowler
+238,326016,BhuvneshKumar,india,Bowler
+239,974175,Fazalhaq FarooQI,afghanistan,Bowler
+240,390484,Jaydev Unadkat,india,Bowler
+241,802575,T Natrajan,india,Bowler
+242,1246528,Umran Malik ,india,Bowler
+243,1081442,Mayank Markande,india,Bowler
+244,489889,Pat Cummins ,australia,Bowler
