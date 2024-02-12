@@ -23,9 +23,10 @@ def get_batter_matches(Row):
     for table in tables:
         if table.find('caption', string='Match by match list'):
             mainTable = table
-            print('table found')
-    if not mainTable:
-        print(f'batting table not found for {Row['player_name']}')
+            break
+    if  mainTable.find('b',string='No records available to match this query'):
+        print(f'batting table not found for {Row["player_name"]}')
+        return
     for row in mainTable.find('tbody').find_all('tr'):
         cells = row.find_all('td')
         if cells[1].text.isnumeric():
@@ -56,27 +57,29 @@ def get_bowler_matches(Row):
     for table in tables:
         if table.find('caption', string='Match by match list'):
             mainTable = table
-            print('table found')
-    if not mainTable:
-        print(f'bwoling table not found for {Row['player_name']}')
+            break
+    if mainTable.find('b',string='No records available to match this query'):
+        print(f'bwoling table not found for {Row["player_name"]}')
+        return
     for row in mainTable.find('tbody').find_all('tr'):
         cells = row.find_all('td')
-        if cells[0].text.isnumeric():
+        if cells[2].text.isnumeric():
             row_data = pd.DataFrame([{
                 'player_id':Row['player_id'],
                 'player_name':Row['player_name'],
                 'country':Row['country'],
                 'position':Row['type'],
-                'opposition':cells[7].find('a').text,
+                'opposition':cells[8].find('a').text,
                 'overs':cells[0].text,
-                'runs':cells[1].text,
+                'runs':cells[2].text,
                 'wickets':cells[3].text,
-                'ground':cells[8].find('a').text,
-                'date':cells[9].find('b').text,
-                'match_link':base_url+cells[10].find('a')['href']
+                'ground':cells[9].find('a').text,
+                'date':cells[10].find('b').text,
+                'match_link':base_url+cells[11].find('a')['href']
             }])
             bowler_matches = pd.concat([bowler_matches, row_data], ignore_index=True)
     print(f'attached bowler matches for {Row["player_name"]}')
+    time.sleep(0.5)
 
 if __name__ == '__main__':
     for _,row in players.iterrows():
