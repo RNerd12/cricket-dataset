@@ -83,9 +83,9 @@ def get_bowler_matches(Row):
 
 if __name__ == '__main__':
     for _,row in players.iterrows():
-        if row['type'] in ['Batter', 'All Rounder']:
+        if row['type'] in ['Batter', 'All Rounder', 'All rounder']:
             get_batter_matches(row)
-        if row['type'] in ['Bowler', 'All Rounder']:
+        if row['type'] in ['Bowler', 'All Rounder', 'All rounder']:
             get_bowler_matches(row)
     batter_matches.to_csv('international_batter_info.csv')
     bowler_matches.to_csv('international_bowler_info.csv')
