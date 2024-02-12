@@ -18,9 +18,8 @@ def get_player_id(row):
     else:
         print(f'{player}, ')
         return None
-
-df = pd.read_csv('players.csv')
-df['profile'] = None
-df['profile'] = df.apply(get_player_id, axis=1)
-
-df.to_csv('player_profiles.csv')
+if __name__ == '__main__':
+    df = pd.read_csv('players.csv')
+    df['profile'] = None
+    df['profile'] = df.apply(get_player_id, axis=1)
+    df.to_csv('player_profiles.csv')
