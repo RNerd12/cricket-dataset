@@ -19,4 +19,4 @@ def assign_dismissal(row):
     return row
 
 batter_info = batter_info.apply(assign_dismissal, axis=1)
-batter_info.to_csv('international_batter_info_all.csv')
+batter_info.to_csv('data/international_batter_info.csv')

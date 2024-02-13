@@ -55,4 +55,4 @@ if __name__ == '__main__':
             get_match_dismissals(row['match_link'].split('/')[-1][:-5])
         if count%10 == 0:
             print(f'completed {count}/{total}')
-    dismissals.to_csv('all_dismissals.csv')
+    dismissals.to_csv('data/dismissals.csv')
